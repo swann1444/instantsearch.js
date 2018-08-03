@@ -13,7 +13,7 @@ search.addWiget(customAutcomplete({
   [ indices ],
   [ escapeHits = false ]
 }));
-Full documentation available at https://community.algolia.com/instantsearch.js/connectors/connectAutocomplete.html
+Full documentation not available at https://community.algolia.com/instantsearch.js/connectors/connectAutocomplete.html
 `;
 
 /**
